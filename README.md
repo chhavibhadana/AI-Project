@@ -1,5 +1,4 @@
-# AI-Project
-Skin cancer detection using CNN. This project work was built on a self compiled, balanced dataset.
-The network was built using tensorflow and keras librarie. 
-The model achieved an accuracy of 94.17 % on the validation dataset.
+# Skin Cancer Prediction using Computer Vision
+Skin Cancer or Melanoma detection is a commin computer vision problem, the approach used to solve this problem is by using CNNs. The high accuracy of 94.17 % was achieved by the use of a balanced data set which was seld compile dusing various official datasets from the internet. 
+The Neural Network was built on the tensorflow library. 
 
